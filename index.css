@@ -62,7 +62,7 @@
 }
 
 .nav__image:hover {
-    transform: scale(0.99);
+    transform: scale(1.01);
     -moz-box-shadow: 0 0 50px rgba(120, 155, 255, 0.9);
     -webkit-box-shadow: 0 0 50px rgba(120, 155, 255, 0.9);
     box-shadow: 0 0 50px rgba(120, 155, 255, 0.9);
